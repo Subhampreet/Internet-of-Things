@@ -53,7 +53,7 @@ This way the device is collecting information but also receiving its own informa
 
 Automated Farming might seem less impactful in your personal world, so let’s think of how things can change in your day. Using our “typical day” story from before, we could think of different ways to improve the use of devices, especially by making them interact with each other (making them “smart’).
 
-What if your morning alarm could automatically turn on the coffee machine for it to be ready once you need to leave? What if your smart fridge could take care of your groceries? It could track every food item, and use an app on your smartphone to automatically order more. If these sound a little useless (or lazy for some people), we could think of more significant uses.
+What if your morning alarm could automatically turn on the coffee machine for it to be ready once you need to leave? What if your smart fridge could take care of your groceries? It could track every food item, and use an app on your smartphone to automatically order more. If these sound a little useless (or lazy for some people).
 
 What if your wearable devices can sense when you’re in danger, and automatically let someone know? 
 
