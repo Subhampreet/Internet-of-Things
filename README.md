@@ -1,6 +1,6 @@
 # Internet of Things - IoT 🚀
 
-![](https://raw.githubusercontent.com/Subhampreet/Internet-of-Things/main/Media/header.png)
+![iot cover](https://user-images.githubusercontent.com/61475220/95949289-f903b480-0e0f-11eb-9ce2-6d7f18f23b7c.png)
 
 In the world we live in today, almost every single thing is connected in some way to the internet. The Internet of Things is a pretty simple concept — taking all the things in the world and connecting them to the internet.
 
@@ -136,7 +136,7 @@ According to the European Telecommunications Standards Institute (ETSI), require
 
 - <b>Scalability</b> - The M2M system should be able to continue to function efficiently as more connected objects are added.
 - <b>Anonymity</b> - The M2M system must be able to hide the identity of an M2M device when requested, subject to regulatory requirements.
-- Logging - M2M systems must support the recording of important events, such as failed installation attempts, service not operating or the occurrence of faulty information. The logs should be available by request.
+- <b>Logging</b> - M2M systems must support the recording of important events, such as failed installation attempts, service not operating or the occurrence of faulty information. The logs should be available by request.
 - <b>M2M application communication principles</b> - M2M systems should enable communication between M2M applications in the network and the M2M device or gateway using communication techniques, such as short message service (SMS) and IP Connected devices should also be able to communicate with each other in a peer-to-peer (P2P) manner.
 - <b>Delivery methods</b> - The M2M system should support unicast, anycast, multicast and broadcast communication modes, with broadcast being replaced by multicast or anycast whenever possible to minimize the load on the communication network.
 - <b>Message transmission scheduling</b> - M2M systems must be able to control network access and messaging schedules and should be conscious of M2M applications' scheduling delay tolerance.
