@@ -1,10 +1,9 @@
 # Internet of Things - IoT 🚀
 
-![iot cover](https://user-images.githubusercontent.com/61475220/95949289-f903b480-0e0f-11eb-9ce2-6d7f18f23b7c.png)
-
 In the world we live in today, almost every single thing is connected in some way to the internet. The Internet of Things is a pretty simple concept — taking all the things in the world and connecting them to the internet.
 
 <blockquote>Internet of Things: The interconnection via the Internet of computing devices embedded in everyday objects, enabling them to send and receive data.</blockquote>
+
 
 <b>This sounds quite terrifying. Why would we need everything connected to the internet?</b>
 
@@ -22,7 +21,11 @@ One of the first examples is from the early ’80s: a Coca-Cola machine located 
 
 The idea of adding sensors and a connection to the Internet was discussed already a few decades ago, but progress was slow; the technology just didn’t exist yet. As you can tell by the graph, the growth has been exponential for the past ~10 years and more internet-connected devices are being created, very fast.
 
+
 ## Why IoT Is Important
+
+<img src="https://user-images.githubusercontent.com/61475220/95949289-f903b480-0e0f-11eb-9ce2-6d7f18f23b7c.png" width="50%" align="right">
+
 All things connected to the internet can be divided into three categories:
 
 - Things that collect information and then send it
@@ -47,9 +50,9 @@ Let’s take the example with the thermostat from before; what if it could opera
 
 This way the device is collecting information but also receiving its own information and acting upon it. This is the true power of IoT.
 
-### IoT In Your Life ☘
-
 <img src="https://github.com/Subhampreet/Internet-of-Things/blob/main/Media/uses.jpg" width="50%" align="right">
+
+### IoT In Your Life ☘
 
 Automated Farming might seem less impactful in your personal world, so let’s think of how things can change in your day. Using our “typical day” story from before, we could think of different ways to improve the use of devices, especially by making them interact with each other (making them “smart’).
 
