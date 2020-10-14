@@ -75,3 +75,89 @@ These issues are very serious, and the truth is there isn’t any real solution 
 
 I’m sure lots of people will believe these changes are useless and are meant for “spoiled” people (mostly those with more old-fashioned ideologies), but we must think of all the positive impact it can bring, to the extent of saving lives (and even the planet).</i>
 
+
+## Machine to Machine (M2M) 📺
+
+The whole world is captivated by the potential of the Internet of Things (IoT), and rightly so. But most people are not aware of the fact that communication between devices in the form of machine-to-machine (M2M) systems is not a new phenomenon. This technology has existed for more than a century now and is an integral part of our workplace and personal lives.
+
+Evolution of machine-to-machine solutions has been steady and staggering at the same time. Starting with telemetry solutions in mid 1800s, M2M technology has made a massive leap into the IoT solutions of today.
+
+### What is M2M?
+
+Machine-to-machine, or M2M, is a broad label that can be used to describe any technology that enables networked devices to exchange information and perform actions without the manual assistance of humans. Artificial intelligence (AI) and machine learning (ML) facilitate the communication between systems, allowing them to make their own autonomous choices.
+
+M2M technology was first adopted in manufacturing and industrial settings, where other technologies, such as SCADA and remote monitoring, helped remotely manage and control data from equipment. M2M has since found applications in other sectors, such as healthcare, business and insurance. M2M is also the foundation for the internet of things
+
+### How M2M works?
+
+The main purpose of machine-to-machine technology is to tap into sensor data and transmit it to a network. Unlike SCADA or other remote monitoring tools, M2M systems often use public networks and access methods -- for example, cellular or Ethernet -- to make it more cost-effective.
+
+The main components of an M2M system include sensors, RFID, a Wi-Fi or cellular communications link, and autonomic computing software programmed to help a network device interpret data and make decisions. These M2M applications translate the data, which can trigger preprogrammed, automated actions.
+
+One of the most well-known types of machine-to-machine communication is telemetry, which has been used since the early part of the last century to transmit operational data. Pioneers in telemetrics first used telephone lines, and later, radio waves, to transmit performance measurements gathered from monitoring instruments in remote locations.
+
+The Internet and improved standards for wireless technology have expanded the role of telemetry from pure science, engineering and manufacturing to everyday use in products such as heating units, electric meters and internet-connected devices, such as appliances.
+
+Beyond being able to remotely monitor equipment and systems, the top benefits of M2M include:
+
+- reduced costs by minimizing equipment maintenance and downtime;
+- boosted revenue by revealing new business opportunities for servicing products in the field; and
+- improved customer service by proactively monitoring and servicing equipment before it fails or only when it is needed.
+
+### M2M applications and examples
+
+Machine-to-machine communication is often used for remote monitoring. In product restocking, for example, a vending machine can message the distributor's network, or machine, when a particular item is running low to send a refill. An enabler of asset tracking and monitoring, M2M is vital in warehouse management systems (WMS) and supply chain management (SCM).
+
+Utilities companies often rely on M2M devices and applications to not only harvest energy, such as oil and gas, but also to bill customers -- through the use of smart meters -- and to detect worksite factors, such as pressure, temperature and equipment status.
+
+In telemedicine, M2M devices can enable the real time monitoring of patients' vital statistics, dispensing medicine when required or tracking healthcare assets.
+
+The combination of the IoT, AI and ML is transforming and improving mobile payment processes and creating new opportunities for different purchasing behaviors. Digital wallets, such as Google Wallet and Apple Pay, will most likely contribute to the widespread adoption of M2M financial activities.
+
+Smart home systems have also incorporated M2M technology. The use of M2M in this embedded system enables home appliances and other technologies to have real time control of operations as well as the ability to remotely communicate.
+
+M2M is also an important aspect of remote-control software, robotics, traffic control, security, logistics and fleet management and automotive.
+
+### Key features of M2M
+
+Key features of M2M technology include:
+
+- Low power consumption, in an effort to improve the system's ability to effectively service M2M applications.
+- A Network operator that provides packet-switched service
+- Monitoring abilities that provide functionality to detect events.
+- Time tolerance, meaning data transfers can be delayed.
+- Time control, meaning data can only be sent or received at specific predetermined periods.
+- Location specific triggers that alert or wake up devices when they enter particular areas.
+- The ability to continually send and receive small amounts of data.
+
+### M2M requirements
+
+According to the European Telecommunications Standards Institute (ETSI), requirements of an M2M system include:
+
+- <b>Scalability</b> - The M2M system should be able to continue to function efficiently as more connected objects are added.
+- <b>Anonymity</b> - The M2M system must be able to hide the identity of an M2M device when requested, subject to regulatory requirements.
+- Logging - M2M systems must support the recording of important events, such as failed installation attempts, service not operating or the occurrence of faulty information. The logs should be available by request.
+- <b>M2M application communication principles</b> - M2M systems should enable communication between M2M applications in the network and the M2M device or gateway using communication techniques, such as short message service (SMS) and IP Connected devices should also be able to communicate with each other in a peer-to-peer (P2P) manner.
+- <b>Delivery methods</b> - The M2M system should support unicast, anycast, multicast and broadcast communication modes, with broadcast being replaced by multicast or anycast whenever possible to minimize the load on the communication network.
+- <b>Message transmission scheduling</b> - M2M systems must be able to control network access and messaging schedules and should be conscious of M2M applications' scheduling delay tolerance.
+- <b>Message communication path selection</b> - Optimization of the message communication paths within an M2M system must be possible and based on policies like transmission failures, delays when other paths exist and network costs.
+
+### M2M vs. IoT
+
+While many use the terms interchangeably, M2M and IoT are not the same. IoT needs M2M, but M2M does not need IoT.
+
+Both terms relate to the communication of connected devices, but M2M systems are often isolated, stand-alone networked equipment. IoT systems take M2M to the next level, bringing together disparate systems into one large, connected ecosystem.
+
+M2M systems use point-to-point communications between machines, sensors and hardware over cellular or wired networks, while IoT systems rely on IP-based networks to send data collected from IoT-connected devices to gateways, the cloud or middleware platforms.
+
+Data collected from M2M devices is used by service management applications, whereas IoT data is often integrated with enterprise systems to improve business performance across multiple groups. Another way to look at it is that M2M affects how businesses operate, while IoT does this and affects end users.
+
+For example, in the product restocking example above, M2M involves the vending machine communicating to the distributor's machines that a refill is needed. Incorporate IoT and an additional layer of analytics is performed; the vending machine can predict when particular products will need refilling based on purchase behaviors, offering users a more personalized experience.
+
+### Concerns about M2M
+
+The major concerns surrounding M2M are all related to security. M2M devices are expected to operate without human direction. This increases the potential of security threats, such as hacking, data breaches and unauthorized monitoring. In order to repair itself after malicious attacks or faults, an M2M system must allow remote management, like firmware updates.
+
+The necessity of remote management also becomes a concern when considering the length of time M2M technology spends deployed. The ability to service mobile M2M equipment becomes unrealistic since it is impossible to send personnel to work on them.
+
+The inability to properly service the M2M equipment creates various unique security vulnerabilities for the M2M systems and the wireless networks they use to communicate.
