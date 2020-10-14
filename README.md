@@ -50,9 +50,10 @@ Let’s take the example with the thermostat from before; what if it could opera
 
 This way the device is collecting information but also receiving its own information and acting upon it. This is the true power of IoT.
 
-<img src="https://github.com/Subhampreet/Internet-of-Things/blob/main/Media/uses.jpg" width="50%" align="right">
 
 ### IoT In Your Life ☘
+
+<img src="https://github.com/Subhampreet/Internet-of-Things/blob/main/Media/uses.jpg" width="50%" align="right">
 
 Automated Farming might seem less impactful in your personal world, so let’s think of how things can change in your day. Using our “typical day” story from before, we could think of different ways to improve the use of devices, especially by making them interact with each other (making them “smart’).
 
