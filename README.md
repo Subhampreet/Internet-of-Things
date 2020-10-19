@@ -1,6 +1,6 @@
 # Internet of Things - IoT 🚀
 
-![iot--](https://user-images.githubusercontent.com/61475220/95950641-8ba55300-0e12-11eb-9240-5b3e3fcd6965.jpg)
+![iot-cover](https://user-images.githubusercontent.com/61475220/96505717-2a4b0d00-1274-11eb-8051-32a5e5766005.png)
 
 In the world we live in today, almost every single thing is connected in some way to the internet. The Internet of Things is a pretty simple concept — taking all the things in the world and connecting them to the internet.
 
